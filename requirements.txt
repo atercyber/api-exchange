@@ -1,5 +1,0 @@
-flask
-requests
-python-telegram-bot==20.3
-firebase-admin
-httpx==0.24.0
